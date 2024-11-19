@@ -2,7 +2,7 @@
     "inventory": [
         {
             "pid": 11,
-            "type": "Vegetables",
+            "type": "Vegetable",
             "plant": {
                 "name": "Savoy Cabbage seeds",
                 "price": 3.5
@@ -10,7 +10,7 @@
         },
         {
             "pid": 113,
-            "type": "Vegetables",
+            "type": "Vegetable",
             "plant": {
                 "name": "Seed Potatoes",
                 "price": 8.5
@@ -18,7 +18,7 @@
         },
         {
             "pid": 2109,
-            "type": "Fruits",
+            "type": "Fruit",
             "plant": {
                 "name": "Rhubarb Stalk roots",
                 "price": 5
@@ -27,7 +27,7 @@
         
         {
             "pid": 21,
-            "type": "Fruits",
+            "type": "Fruit",
             "plant": {
                 "name": "Brambley Apple Tree",
                 "price": 35
@@ -35,7 +35,7 @@
         },
         {
             "pid": 211,
-            "type": "Fruits",
+            "type": "Fruit",
             "plant": {
                 "name": "Conference Pear Tree",
                 "price": 35
@@ -43,7 +43,7 @@
         },
         {
             "pid": 121,
-            "type": "Vegetables",
+            "type": "Vegetable",
             "plant": {
                 "name": "Tall Sweetcorn Seeds",
                 "price": 4.5
@@ -85,7 +85,7 @@
         },
         {
             "pid": 237,
-            "type": "Vegetables",
+            "type": "Vegetable",
             "plant": {
                 "name": "Pumpkin Seeds",
                 "price": 5.5
