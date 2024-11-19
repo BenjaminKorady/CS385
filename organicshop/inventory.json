@@ -2,7 +2,7 @@
     "inventory": [
         {
             "pid": 11,
-            "productCategory": "Vegetables",
+            "type": "Vegetables",
             "plant": {
                 "name": "Savoy Cabbage seeds",
                 "price": 3.5
@@ -10,7 +10,7 @@
         },
         {
             "pid": 113,
-            "productCategory": "Vegetables",
+            "type": "Vegetables",
             "plant": {
                 "name": "Seed Potatoes",
                 "price": 8.5
@@ -18,7 +18,7 @@
         },
         {
             "pid": 2109,
-            "productCategory": "Fruits",
+            "type": "Fruits",
             "plant": {
                 "name": "Rhubarb Stalk roots",
                 "price": 5
@@ -27,7 +27,7 @@
         
         {
             "pid": 21,
-            "productCategory": "Fruits",
+            "type": "Fruits",
             "plant": {
                 "name": "Brambley Apple Tree",
                 "price": 35
@@ -35,7 +35,7 @@
         },
         {
             "pid": 211,
-            "productCategory": "Fruits",
+            "type": "Fruits",
             "plant": {
                 "name": "Conference Pear Tree",
                 "price": 35
@@ -43,7 +43,7 @@
         },
         {
             "pid": 121,
-            "productCategory": "Vegetables",
+            "type": "Vegetables",
             "plant": {
                 "name": "Tall Sweetcorn Seeds",
                 "price": 4.5
@@ -51,7 +51,7 @@
         },
         {
             "pid": 88,
-            "productCategory": "Flowers",
+            "type": "Flowers",
             "plant": {
                 "name": "Dahlia Bulbs (10)",
                 "price": 10
@@ -59,7 +59,7 @@
         },
         {
             "pid": 8181,
-            "productCategory": "Flowers",
+            "type": "Flowers",
             "plant": {
                 "name": "Daffodil Bulbs (100)",
                 "price": 20
@@ -69,7 +69,7 @@
         
         {
             "pid": 188,
-            "productCategory": "Flowers",
+            "type": "Flowers",
             "plant": {
                 "name": "David Austin Rose",
                 "price": 20
@@ -77,7 +77,7 @@
         },
         {
             "pid": 288,
-            "productCategory": "Flowers",
+            "type": "Flowers",
             "plant": {
                 "name": "Royal Red Tulips",
                 "price": 25
@@ -85,7 +85,7 @@
         },
         {
             "pid": 237,
-            "productCategory": "Vegetables",
+            "type": "Vegetables",
             "plant": {
                 "name": "Pumpkin Seeds",
                 "price": 5.5
